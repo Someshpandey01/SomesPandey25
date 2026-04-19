@@ -78,4 +78,4 @@ I enjoy contributing to OSS — bug fixes, feature PRs, and documentation improv
 
 ---
 
-Thanks for visiting! If you'd like a personalized README that highlights specific projects, skills, or a tailored bio, scroll down and tell me a few details — I’ll update this README for you.
+Thanks for visiting! 
